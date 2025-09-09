@@ -1,6 +1,5 @@
+![1733955244351](https://github.com/user-attachments/assets/7dccc003-7181-48d6-9bb7-810ca17ad1d9)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-<br><br>
 
 # 👋 Olá, pode me chamar de Cristiano
 
