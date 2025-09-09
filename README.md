@@ -14,3 +14,4 @@
 ## 🌐 Vamos nos conectar!
 - 💼 [Acesse meu LinkedIn](https://www.linkedin.com/in/cristiano-magno-22bab8321/)  
 - 📧 cristianosolutions@gmail.com
+
