@@ -4,17 +4,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-![1733955244351](https://github.com/user-attachments/assets/7dccc003-7181-48d6-9bb7-810ca17ad1d9)
-
-
 # 👋 Olá, pode me chamar de Cristiano
 
 ---
