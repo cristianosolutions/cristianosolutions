@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/cristianosolutions/cristianosolution">
-    <img src="https://github.com/cristianosolutions/cristianosolutions/edit/main/banner.png"
+    <img src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Banner.png"
 </div>
 
 
