@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/cristianosolutions" target="_blank">
+  <a href="https://www.linkedin.com/in/cristianosolutions" target="_blank"/>
     <img heigth="60px" width="60px" hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/linkedin.png"/></a>
   <a href="https://www.facebook.com/cristianosolutions"/>
     <img height="60px" width="60px" hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/facebook.png"/></a>
