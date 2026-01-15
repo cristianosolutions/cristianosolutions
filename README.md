@@ -10,8 +10,10 @@
     <img height="60px" width="60px" hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/facebook.png" /></a>
   <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox"/>
     <img height="60px" width="60px"hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/email.png" /></a>
-
-  [![LinkedIn](https://github.com/cristianosolutions/cristianosolutions/blob/main/linkedin.png)](https://www.linkedin.com/in/cristianosolutions)
-
+ 
 </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianosolutions)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/cristianosolutions)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cristianosolutions@gmail.com)
 
