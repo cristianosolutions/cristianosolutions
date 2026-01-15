@@ -2,19 +2,10 @@
   <a href="https://github.com/cristianosolutions/cristianosolution">
     <img src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Banner.png"
 </div>
-
-
-# 👋 Olá, pode me chamar de Cristiano
-
----
-
-## 📊 Estatísticas GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianosolutions&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosolutions&layout=compact&theme=radical)
-
----
-
-## 🌐 Vamos nos conectar!
-- 💼 [Acesse meu LinkedIn](https://www.linkedin.com/in/cristiano-magno-22bab8321/)  
-- 📧 cristianosolutions@gmail.com
+<div align"center">
+  <a href="https://www.linkedin.com/in/cristianosolutions/">
+  <img heigth="50px" width="50px" hspace="15" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/linkedin.png" /></a>
+  <a href="https://www.facebook.com/cristianosolutions/">
+    <img height="50px" width="50px" hspace="15" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/facebook.png" /></a>
+</div>
 
