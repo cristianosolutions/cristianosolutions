@@ -1,7 +1,7 @@
-<div>
-  <h1 align="center" >Seja Bem Vindo!</h1>
-  <a href="https://github.com/cristianosolutions/cristianosolution">
-    <img src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Banner.png"></a>
+<br>
+<div> 
+    <a href="https://github.com/cristianosolutions/cristianosolution" >
+    <img src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Banner.png" ></a>
 </div>
 <br>
 <div align="center">
@@ -13,13 +13,15 @@
     <img height="40px" width="40px"hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/email.png" /></a>   
 </div>
 
-## Seja bem vindo!
+## Seja Bem Vindo!
 
 <div>
-<p>
-  <img width="30" alt="image" src="https://github.com/user-attachments/assets/806ba8cc-5966-4d5d-ba02-4b4a087ba5e4"/>  Atualmente trabalhando
+  
+<p>  
+  <img width="40" width="40" alt="image" src="https://github.com/user-attachments/assets/806ba8cc-5966-4d5d-ba02-4b4a087ba5e4" />  <b>Atualmente trabalhando como Assistente de TI</b> 
 </p>
-    
-     
+<p>
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9c24fb74-0e43-46e4-b9d4-56541bf993f3" />  <b>Migrando para carreira de desenvolvimento</b>
+</p>
+  
 </div>
-
