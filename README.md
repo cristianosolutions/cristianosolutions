@@ -17,14 +17,16 @@
 </div>
  
 <br> 
-  💻 <i>Atualmente trabalho como assistente de TI.</i><br>
-  🚀 <I>Migrando para carreira DEV</I><br>
-  
+<div>
+  💻<i>  Atualmente trabalho como assistente de TI.</i><br>
+  📚<i>  Formado em análise e desenvolvimento de sistemas.<i/><br>
+  🚀<I>  Migrando para carreira DEV</I><br>
+</div>
 
 
 
 
-https://github.com/shyoutarou/README-Model/blob/master/gistfile1.md
+
  
 
 
