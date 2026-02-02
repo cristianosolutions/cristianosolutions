@@ -17,12 +17,14 @@
 </div>
  
 <br> 
-<div>
-  💻<i>  Atualmente trabalho como assistente de TI.</i><br>
-  📚<i>  Formado em análise e desenvolvimento de sistemas.<i/><br>
-  🚀<I>  Migrando para carreira DEV</I><br>
-</div>
 
+<p align="left">
+  💻<i>  Atualmente trabalho como assistente de TI.</i></p><br><br>
+
+<p align="center">📚<i>  Formado em análise e desenvolvimento de sistemas.<i/>
+</p>
+
+<p align="right">🚀<i>  Migrando para carreira DEV.</i> </p>
 
 
 
