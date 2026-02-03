@@ -1,4 +1,5 @@
-# Olá! Me chamo :point_down:
+ <h2><i>Olá! Me chamo :point_down:</i></h2>
+
 <br>
 <div> 
     <a href="https://github.com/cristianosolutions" >
@@ -14,17 +15,18 @@
     <img heigth="40px" width="40px" hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/facebook.png" /></a>
   <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" />
     <img heigth="40px" width="40px"hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/email.png" /></a>   
-</div>
- 
-<br> 
+</div> 
 
-<p align="left">
-  💻<i>  Atualmente trabalho como assistente de TI.</i></p><br><br>
+<br>
 
-<p align="center">📚<i>  Formado em análise e desenvolvimento de sistemas.<i/>
-</p>
+<h4>💻 <i>Atualmente trabalho como assistente de TI.</i></h4>
+<h4>📚 <i>Formado em análise e desenvolvimento de sistemas.<i/></h4>
+<h4>🚀 <i>Migrando para carreira DEV.</i></h4><br><br>
+<h3>🚀🛠️ <i>Tecnologias & Ferramentas</i></h3>
 
-<p align="right">🚀<i>  Migrando para carreira DEV.</i> </p>
+
+
+
 
 
 
