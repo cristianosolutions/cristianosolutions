@@ -25,8 +25,12 @@
 
 ### 🚀🛠️ <i>Tecnologias & Ferramentas</i><br>
 <img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/js.png" />
+<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/html5.png" />
+<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/css3.png" />
 <img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/tailwindcss.png" />
 <img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/bootstrap5.png" />
+<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/git.png" />
+
 
 
 
