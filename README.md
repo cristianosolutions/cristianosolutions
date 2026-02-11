@@ -23,10 +23,10 @@
 ***📚 <i>Formado em análise e desenvolvimento de sistemas.<i/><br>***
 ***🚀 <i>Migrando para carreira DEV.</i><br><br>***
 
-### 🚀🛠️ <i>Tecnologias & Ferramentas</i>
-
-<img heigth="50px" width="50px" hspace="20" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/js.png" />
-<img heigth="50px" width="50px" hspace="20" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/tailwindcss.png" />
+### 🚀🛠️ <i>Tecnologias & Ferramentas</i><br>
+<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/js.png" />
+<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/tailwindcss.png" />
+<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/bootstrap5.png" />
 
 
 
