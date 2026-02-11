@@ -19,10 +19,11 @@
 
 <br>
 
-<h4>💻 <i>Atualmente trabalho como assistente de TI.</i></h4>
-<h4>📚 <i>Formado em análise e desenvolvimento de sistemas.<i/></h4>
-<h4>🚀 <i>Migrando para carreira DEV.</i></h4><br><br>
-<h3>🚀🛠️ <i>Tecnologias & Ferramentas</i></h3>
+***💻 <i>Atualmente trabalho como assistente de TI.</i><br>***
+***📚 <i>Formado em análise e desenvolvimento de sistemas.<i/><br>***
+***🚀 <i>Migrando para carreira DEV.</i><br><br>***
+
+<h2>🚀🛠️ <i>Tecnologias & Ferramentas</i></h2>
 
 
 
