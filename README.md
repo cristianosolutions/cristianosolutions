@@ -21,7 +21,6 @@
  <br>
  <br>
 ### 🚀🛠️ <i>Tecnologias & Ferramentas</i>
-<br>
 <img heigth="30" width="30" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/js.png" />
 <img heigth="30" width="30" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/react.png" /
 <img heigth="30" width="30" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/html5.png" />
