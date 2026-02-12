@@ -7,11 +7,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cristianosolutions" />
-    <img heigth="40px" width="40px" hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/linkedin.png" /></a>
+    <img heigth="40px" width="40px" hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/linkedin.png" /></a>
   <a href="https://www.facebook.com/cristianosolutions" />
-    <img heigth="40px" width="40px" hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/facebook.png" /></a>
+    <img heigth="40px" width="40px" hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/facebook.png" /></a>
   <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" />
-    <img heigth="40px" width="40px"hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/email.png" /></a>   
+    <img heigth="40px" width="40px"hspace="30" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/gmail.png" /></a>   
 </div> 
 <br>
     
