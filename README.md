@@ -1,6 +1,3 @@
- ***<h1><i>Olá! Me chamo :point_down:</i></h1>***
-
-<br>
 <div> 
     <a href="https://github.com/cristianosolutions" >
     <img  src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Banner.png" /></a>
@@ -24,14 +21,17 @@
 ***🚀 <i>Migrando para carreira DEV.</i><br><br>***
 
 ### 🚀🛠️ <i>Tecnologias & Ferramentas</i><br>
-<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/js.png" />
-<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/react.png" />
-<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/html5.png" />
-<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/css3.png" /><br>
-<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/tailwindcss.png" />
-<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/bootstrap5.png" />
-<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/vitejs.png" />
-<img heigth="50" width="50" hspace="10" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/git.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/js.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/react.png" /
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/html5.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/css3.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/tailwindcss.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/bootstrap5.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/vitejs.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/git.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/github.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/nodejs.png" />
+<img heigth="50" width="50" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/postgresql.png" />
 
 
 
