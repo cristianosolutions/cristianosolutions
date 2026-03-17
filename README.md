@@ -34,13 +34,12 @@
     <img heigth="30" width="30" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/nodejs.png" />
     <img heigth="30" width="30" hspace="5" src="https://github.com/cristianosolutions/cristianosolutions/blob/main/Stack-icons/postgresql.png" />
 </div>
-<br>
-<div>
-    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cristianosolutions&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosolutions&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+<br>   
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cristianosolutions&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosolutions&layout=compact&theme=dark)
+    
 
 
 
